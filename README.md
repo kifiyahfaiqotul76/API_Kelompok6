@@ -1,4 +1,4 @@
-# Proyek API Ulasan Film - Kelompok X
+# Proyek API Ulasan Film - Kelompok 6
 
 ## Anggota Kelompok
 - Ajeng Maulida Puspita (362458302012)
