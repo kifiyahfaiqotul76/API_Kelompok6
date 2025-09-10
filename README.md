@@ -8,8 +8,7 @@
   
 ## Deskripsi Proyek
 API ini adalah layanan internal untuk mengelola ulasan film
-dari Studio Ghibli,
-dengan data film yang direferensikan dari Ghibli API publik.
+dari Studio Ghibli dengan data film yang direferensikan dari Ghibli API publik.
 
 ## Cara Menjalankan Proyek
 1. Clone repository ini: ‘git clone ...‘
