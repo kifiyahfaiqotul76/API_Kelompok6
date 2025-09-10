@@ -1,4 +1,4 @@
-![post1](https://github.com/user-attachments/assets/62cbd99b-6915-4b64-a7e2-89bd42e3c2f4)<img width="1920" height="1200" alt="delete1" src="https://github.com/user-attachments/assets/d0c40de2-f205-4c89-985f-bb8bf7d1a973" /><img width="1920" height="1200" alt="putReviews2" src="https://github.com/user-attachments/assets/cdefbd37-0605-4531-b9a2-a13bab980313" /><img width="1920" height="1200" alt="putReviews2" src="https://github.com/user-attachments/assets/e5627157-c8f1-4118-83b4-95774681d381" /><img width="1920" height="1200" alt="Get Reviews Id" src="https://github.com/user-attachments/assets/1ab0eb01-1fd4-4578-8604-dc781d80d14a" /># Proyek API Ulasan Film - Kelompok 6
+# Proyek API Ulasan Film - Kelompok 6
 
 ## Anggota Kelompok
 - Ajeng Maulida Puspita         (362458302012)
